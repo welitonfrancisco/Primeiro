@@ -14,11 +14,11 @@
 
 ## Lista demarcada
 
-*teste
--teste
-   *teste
-   *teste
-*teste
+* teste
+- teste
+   * teste
+   * teste
+* teste
 
 ## Lista de tarefas
 

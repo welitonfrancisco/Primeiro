@@ -6,4 +6,21 @@
  ## Exemplos: 
  ***
  ---
-**Markdown**
+ lista numerada
+1. **Markdown**
+   1. teste
+   1. teste2
+1. __*GITHUB*__
+
+## Lista demarcada
+
+*teste
+-teste
+   *teste
+   *teste
+*teste
+
+## Lista de tarefas
+
+- [] atividade 1
+- [x] atividade 2

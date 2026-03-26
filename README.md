@@ -22,5 +22,5 @@
 
 ## Lista de tarefas
 
-- [] atividade 1
+- [ ] atividade 1
 - [x] atividade 2
